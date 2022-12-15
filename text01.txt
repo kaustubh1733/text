@@ -1,0 +1,6 @@
+{
+    "place_id":"41b6590d66e4de1255cbb075e8183583",
+    "name": "Gajju bhai",
+    "address":"MAIN ROAD Shaliimmaarrr, Kaladas mandir, GJ",
+    "key":"qaclick123"
+    }
